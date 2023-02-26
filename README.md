@@ -6,5 +6,11 @@
 - orbiter extruder v1.5 / motor LDO-36STH20-1004AHG(XH)
 - custom [Tiki3 Head](https://github.com/thrutheframe/Tiki3#tiki3-version-32) with BLTouch
 
+## Klipper change 24/02/2023
+- macro folder
+- bed mesh
 
+## Previously
+### BlockHead + BLTouch
 
+### default head + BL Touch
